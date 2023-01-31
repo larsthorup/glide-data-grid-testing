@@ -1,0 +1,37 @@
+{
+  "name": "glide-data-grid-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsthorup/glide-data-grid-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsthorup/glide-data-grid-testing/issues"
+  },
+  "homepage": "https://github.com/larsthorup/glide-data-grid-testing#readme",
+  "dependencies": {
+    "@glideapps/glide-data-grid": "^5.2.1",
+    "@testing-library/react": "^13.4.0",
+    "jest-canvas-mock": "^2.4.0",
+    "jest-environment-jsdom": "^29.4.1",
+    "lodash": "^4.17.21",
+    "marked": "^4.2.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-responsive-carousel": "^3.2.23"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.1",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.5"
+  }
+}
